@@ -1,0 +1,44 @@
+#title {
+  text-align: center;
+  font-size: 35px;
+  color: #472828;
+}
+#t1 {
+  text-align: center;
+  font-size: 30px;
+  color: #f1126f;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#p1 {
+  text-align: center;
+  font-size: 28px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.demo1 {
+  text-align: center;
+}
+#demo-btn1 {
+  border: none;
+  background-color: #e92929;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}
+.img-display {
+  text-align: center;
+}
+#about {
+  font-size: 1.4rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgba(19, 17, 17, 0.726);
+}
+#avatar {
+  border-radius: 50%;
+}
